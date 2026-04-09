@@ -3,8 +3,8 @@
 This repository contains a Jupyter Notebook (`Mnist-hardcoded.ipynb`) that implements a simple 2-layer Neural Network from scratch in Python to classify handwritten digits from the MNIST dataset. It uses only NumPy and Pandas, without relying on deep learning frameworks like TensorFlow or PyTorch.
 
 ## Overview
-This project is inspired by Samson Zhang's popular Kaggle kernel: [Simple MNIST NN from scratch (numpy, no TF/Keras)](https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras).
-
+This project is inspired by Samson Zhang. I got the inspiration to make my own Neural Network.
+This taught me the very basics of how a neural network works behind the scenes and gave me a different outlook
 It includes the entire process from data loading to neural network training and validation:
 - **Data Initialization & Preprocessing**: Loads the MNIST dataset and splits it into training and development sets.
 - **Forward Propagation**: Implements mathematical operations for the weights and biases using ReLU and Softmax activations.
